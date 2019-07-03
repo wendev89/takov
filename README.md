@@ -4,8 +4,8 @@ TakOv is Tool for Take Over Admin Facebook Group
 
 <b>INSTALL</b>
 <br />
+$ git clone https://github.com/wendev89/takov.git
 <br />
-<textarea cols="50" rows="10">$ git clone https://github.com/wendev89/takov.git</textarea>
+$ cd takov
 <br />
-<textarea cols="50" rows="5">$ cd takov</textarea>
-<br />
+$ pip install -r requirements.txt
